@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ballester-minsait
+- 👋 Hi
 - 👀 I’m interested in tecnology
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on DevOps
